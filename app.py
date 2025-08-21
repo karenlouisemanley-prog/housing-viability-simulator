@@ -100,6 +100,3 @@ st.download_button(
     file_name="viability_results.csv",
     mime="text/csv"
 )
-* **Downloadable results**.
-
-👉 Next step: copy this into `app.py`, push to GitHub with the `requirements.txt`, then deploy to Streamlit Cloud. Would you like me to also give you the exact `requirements.txt` content here so you can paste it straight in?
